@@ -1,5 +1,5 @@
-//export const BASE_URL = "https://catatdulu-backend-production.up.railway.app/api"; --> for production URL
-export const BASE_URL = "http://localhost:8000/api"; // --> for local development or testing progress
+export const BASE_URL = "https://catatdulu.zeabur.app/api";
+//export const BASE_URL = "http://localhost:8000/api"; // --> for local development or testing progress
 const CLOUDINARY_CLOUD_NAME = "duwad91pv"
 
 export const API_ENDPOINTS = {
